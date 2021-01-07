@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979916029841",
+    "project_id": "aipone",
+    "storage_bucket": "aipone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979916029841:android:6d504bf848c06d6ebae430",
+        "android_client_info": {
+          "package_name": "com.aiphone.aiphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979916029841-oeoc3ci5jcnold1lacbep5k80v2jcp0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiphone.aiphone",
+            "certificate_hash": "bb34daf583cc569ce86a9dff3acf13598631b409"
+          }
+        },
+        {
+          "client_id": "979916029841-0cfgecmdtrtkbuibiuvbd5m8ko1evrrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbaPuH9utmOJoGn5ijSpz034lUa03gzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979916029841-0cfgecmdtrtkbuibiuvbd5m8ko1evrrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

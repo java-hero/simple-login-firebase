@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/fui_ic_phone_white_24dp"
+        app:cnb_backgroundColor="@color/purple_700"
+        app:cnb_iconColor="#ffff"
+        app:cnb_textColor="#ffff"/>
+    
+    <item
+        android:id="@+id/promo"
+        android:title="Promo"
+        android:icon="@drawable/ic_baseline_local_grocery_store_24"
+        app:cnb_backgroundColor="@color/purple_700"
+        app:cnb_iconColor="#ffff"
+        app:cnb_textColor="#ffff"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:cnb_backgroundColor="@color/purple_700"
+        app:cnb_iconColor="#ffff"
+        app:cnb_textColor="#ffff"/>
+</menu>
